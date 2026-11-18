@@ -6,7 +6,7 @@ LunarBase is a 3D interactive educational game developed for the **NASA Space Ap
 
 The goal is to make the challenges of lunar exploration more engaging and understandable through interactive gameplay.
 
-![LunarBase Gameplay](demo pic.png)
+![LunarBase Gameplay](demo pic.PNG)
 
 ## 🚀 Project Overview
 
