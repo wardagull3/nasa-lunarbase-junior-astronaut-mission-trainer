@@ -1,0 +1,8 @@
+{
+  "name": "LunarBase: Junior Astronaut Mission Trainer",
+  "description": "Could you keep your crew alive on the Moon? A 3D educational lunar survival game integrating NASA DONKI space-weather events and OSDR RadLab radiation reference measurements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
